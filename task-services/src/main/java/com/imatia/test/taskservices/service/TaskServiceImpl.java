@@ -37,8 +37,7 @@ public class TaskServiceImpl implements TaskService {
 	}
 
 	public void eliminarTarea(UUID id) {
-		// Lógica para eliminar el usuario desde una base de datos o algún otro origen de datos
-		// En este ejemplo, se simula la eliminación de un usuario ficticio
+		
 		taskRepository.deleteById(id);
 
 		System.out.println("tarea eliminada ");
