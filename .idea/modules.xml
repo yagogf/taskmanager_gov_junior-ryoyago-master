@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/task-services/task-services.iml" filepath="$PROJECT_DIR$/task-services/task-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/taskmanager_gov_junior-ryoyago-master.iml" filepath="$PROJECT_DIR$/.idea/taskmanager_gov_junior-ryoyago-master.iml" />
+    </modules>
+  </component>
+</project>
